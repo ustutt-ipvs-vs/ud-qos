@@ -47,5 +47,6 @@ First define the interface where UD-QoS should be set in the *add.sh*.
 To build and add the UD-QoS to the interface run the following command:
 
 ```
+cd approach_withSlidingWindow
 sudo ./add.sh
 ```
